@@ -3,7 +3,7 @@
 ## Tarea 1 - Graficación de señales continuas y discretas
 
 *Nombre del alumno:* Evian Manuel Treviño Flores  
-*Fecha:* 31 de mayo de 2025
+*Fecha:* 20 de agosto del 2025
 
 ---
 
